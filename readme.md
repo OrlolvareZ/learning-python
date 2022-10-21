@@ -9,7 +9,7 @@ Alongside, I will be documenting the use of jupyter notebooks, a great tool that
 <details>
     <summary>Here, you'll find a list of the things I've learned:</summary><br>
 
-* [How to work with Jupyter Notebooks files](editors/how_to_main)
+* [How to work with Jupyter Notebooks files](editors/how_to_main.md)
 * Python syntaxis
     * [Mathematical operators](basics/math_operators.md)
     * Logical operators
