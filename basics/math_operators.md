@@ -38,4 +38,4 @@ Remainder
 10 % 3
 ```
 
-[Test the code above](math_operators.ipynb) by cloning this repository in your computer.
+[Click here to test the code above](math_operators.ipynb) once you've cloned this repository in your computer.
